@@ -1,5 +1,4 @@
-# Saúde mental do estudante de medicina
-Burnout, Empathy, Anxiety and Depression
+# O Papel da IA na Saúde Mental: Entendendo Possíveis Causas para Depressão entre Estudantes
 
 mbi_ex
 Exhaustion (Exaustão)
